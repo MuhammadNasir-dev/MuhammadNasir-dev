@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nasir</h1>
+<h1 align="center">Hi 👋, I'm  Muhammad Nasir</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
 - 💬 Ask me about **React , Laravel , Node , System design**
