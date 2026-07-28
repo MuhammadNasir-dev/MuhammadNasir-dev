@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **React , Laravel , Node , System design**
 
-- 📫 How to reach me **nasir.dev@icloud.com**
+- 📫 How to reach me **nasir@devsock.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
