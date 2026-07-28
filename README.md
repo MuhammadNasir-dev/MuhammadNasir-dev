@@ -1,147 +1,51 @@
 <div align="center">
 
-# Hi there 👋 I'm Muhammad Nasir
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Nasir&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Founder%20%26%20CEO%20%40DevSock%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-### 🚀 Full Stack Developer • Software Engineer • Founder of Devsock
-
-Building scalable web, mobile, desktop & cloud applications.
-
-<p>
-  <a href="https://github.com/muhammadNasir-dev">
-    <img src="https://img.shields.io/github/followers/muhammadNasir-dev?label=Follow&style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/muhammadnasirdev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=muhammadNasir-dev&style=for-the-badge&color=blue" />
-</p>
-
-</div>
-
----
-
-# 💫 About Me
-
-I'm a passionate **Full Stack Developer** focused on designing and building modern software solutions that are fast, scalable, and user-centric. I enjoy transforming complex ideas into intuitive digital experiences across multiple platforms.
-
-I specialize in:
-
-- 🌐 Modern Web Applications
-- 📱 Cross-Platform Mobile Apps
-- 🖥 Desktop Applications
-- ☁️ REST APIs & Cloud Services
-- ⚡ High-Performance Systems
-- 🛒 SaaS Platforms
-- 🤖 AI-Powered Applications
-- 🔒 Secure Authentication & Backend Architecture
-
-I'm constantly learning new technologies, improving my engineering skills, and building software that solves real-world problems.
-
----
-
-# 🛠 Tech Stack
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css,js,ts" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php" />
-</p>
-
-### Mobile
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,firebase" />
-</p>
-
-### Desktop
-
-<p>
-<img src="https://skillicons.dev/icons?i=electron" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,postman" />
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=muhammadNasir-dev&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=muhammadNasir-dev&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadNasir-dev&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=muhammadNasir-dev&theme=algolia&no-frame=true&row=1&column=7)
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=muhammadNasir-dev&theme=tokyo-night)
-
----
-
-# 💻 Skills
-
-```text
-Frontend Development     █████████████████████ 95%
-Backend Development      ████████████████████ 93%
-API Development          █████████████████████ 96%
-Database Design          ███████████████████ 90%
-System Architecture      ██████████████████ 88%
-UI / UX                  █████████████████ 85%
-```
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/muhammadNasir-dev">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;React+%7C+NestJS+%7C+Next.js+%7C+Flutter;Building+DevSock;Turning+Ideas+Into+Products&font=Fira+Code&center=true&width=500&height=45&duration=3000&pause=800&color=58A6FF&vCenter=true&size=22" alt="Typing SVG" />
 </a>
 
-<a href="https://www.linkedin.com/in/muhammadnasirdev/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+</div>
 
-</p>
+<br/>
 
----
+## About Me
+
+Full-stack developer and founder of **DevSock**, based in Faisalabad, Pakistan. I design and ship complete products — backend architecture, frontend interfaces, mobile apps, and desktop tooling — end to end.
+
+- 🏢 Founder & CEO at **DevSock**
+- 💻 Working across frontend, backend, mobile, and desktop
+- 🔭 Currently building a fintech / digital wallet platform
+- 🌱 Exploring developer tooling and CLI-based auth systems
+- 💬 Ask me about system design, auth architecture, or cross-platform apps
+- 📫 Reach me at **nasir@devsock.com**
+
+<br/>
+
+## Tech Stack
+
+**Languages** — JavaScript · TypeScript · Python · PHP
+**Frontend** — React · Next.js · Tailwind CSS
+**Backend** — NestJS · Node.js · Laravel
+**Mobile & Desktop** — Flutter · Electron
+**Data & Infra** — PostgreSQL · MySQL · Redis · Docker · Nginx · Git
+**CMS** — WordPress
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MuhammadNasir-dev/MuhammadNasir-dev/output/github-snake.svg" alt="snake animation"/>
+</div>
+
+<br/>
 
 <div align="center">
 
-### ⭐ Building software that makes an impact.
+### Let's Connect
 
-Thanks for visiting my profile!
+**[LinkedIn](https://www.linkedin.com/in/muhammadnasirdev/)** · **[X / Twitter](https://twitter.com/MuhammadNasir1O)** · **[devsock.com](https://devsock.com/)** · **[nasir@devsock.com](mailto:nasir@devsock.com)**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
