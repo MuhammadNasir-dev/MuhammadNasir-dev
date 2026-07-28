@@ -1,51 +1,67 @@
-<div align="center">
+<h2 data-importer="text" align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Nasir&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Founder%20%26%20CEO%20%40DevSock%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+###
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;React+%7C+NestJS+%7C+Next.js+%7C+Flutter;Building+DevSock;Turning+Ideas+Into+Products&font=Fira+Code&center=true&width=500&height=45&duration=3000&pause=800&color=58A6FF&vCenter=true&size=22" alt="Typing SVG" />
-</a>
-
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/MuhammadNasir-dev/MuhammadNasir-dev/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/MuhammadNasir-dev/MuhammadNasir-dev/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<br/>
+###
 
-## About Me
+<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-Full-stack developer and founder of **DevSock**, based in Faisalabad, Pakistan. I design and ship complete products — backend architecture, frontend interfaces, mobile apps, and desktop tooling — end to end.
+###
 
-- 🏢 Founder & CEO at **DevSock**
-- 💻 Working across frontend, backend, mobile, and desktop
-- 🔭 Currently building a fintech / digital wallet platform
-- 🌱 Exploring developer tooling and CLI-based auth systems
-- 💬 Ask me about system design, auth architecture, or cross-platform apps
-- 📫 Reach me at **nasir@devsock.com**
-
-<br/>
-
-## Tech Stack
-
-**Languages** — JavaScript · TypeScript · Python · PHP
-**Frontend** — React · Next.js · Tailwind CSS
-**Backend** — NestJS · Node.js · Laravel
-**Mobile & Desktop** — Flutter · Electron
-**Data & Infra** — PostgreSQL · MySQL · Redis · Docker · Nginx · Git
-**CMS** — WordPress
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MuhammadNasir-dev/MuhammadNasir-dev/output/github-snake.svg" alt="snake animation"/>
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="30" alt="electron logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
 </div>
 
-<br/>
+###
 
-<div align="center">
-
-### Let's Connect
-
-**[LinkedIn](https://www.linkedin.com/in/muhammadnasirdev/)** · **[X / Twitter](https://twitter.com/MuhammadNasir1O)** · **[devsock.com](https://devsock.com/)** · **[nasir@devsock.com](mailto:nasir@devsock.com)**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
+<div data-importer="socials" align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/MuhammadNasir-dev/MuhammadNasir-dev/snake-output/snake.svg" alt="Snake animation" />
+
+###
